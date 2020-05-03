@@ -1,0 +1,19 @@
+{
+    "name": "defrindr/xmath",
+    "description": "a simple tool to solved math question",
+    "type": "library",
+    "require": {},
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "defrindr",
+            "email": "defrindr@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "defrindr\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
